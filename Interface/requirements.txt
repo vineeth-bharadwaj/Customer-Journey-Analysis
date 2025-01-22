@@ -16,3 +16,4 @@ seaborn
 os
 time
 atexit
+uvicorn
